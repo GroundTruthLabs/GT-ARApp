@@ -1,0 +1,94 @@
+{ 
+   "locations":[ 
+      { 
+         "text":"Farzi Cafe",
+         "latitude":"28.495451",
+         "longitude":"77.088505",
+         "altitude":"236"
+      },
+      { 
+         "text":"The Wine Company",
+         "latitude":"28.496209",
+         "longitude":"77.088892",
+         "altitude":"236"
+      },
+      { 
+         "text":"Imperfecto",
+         "latitude":"28.496034",
+         "longitude":"77.088671",
+         "altitude":"256"
+      },
+      { 
+         "text":"Gifts of Love",
+         "latitude":"28.49594",
+         "longitude":"77.089097",
+         "altitude":"236"
+      },
+      { 
+         "text":"Soi 7",
+         "latitude":"28.495833",
+         "longitude":"77.088673",
+         "altitude":"236"
+      },
+      { 
+         "text":"Angels in My Kitchen",
+         "latitude":"28.49579",
+         "longitude":"77.089226",
+         "altitude":"236"
+      },
+      { 
+         "text":"Starbucks Coffee",
+         "latitude":"28.495521",
+         "longitude":"77.089068",
+         "altitude":"236"
+      },
+      { 
+         "text":"Haldiram's",
+         "latitude":"28.495672",
+         "longitude":"77.088592",
+         "altitude":"236"
+      },
+      { 
+         "text":"Red Mango",
+         "latitude":"28.495358",
+         "longitude":"77.089005",
+         "altitude":"236"
+      },
+      { 
+         "text":"Chumbak Store",
+         "latitude":"28.495463",
+         "longitude":"77.089041",
+         "altitude":"236"
+      },
+      { 
+         "text":"One Horizon Center",
+         "latitude":"28.450927",
+         "longitude":"77.096476",
+         "altitude":"236"
+      },
+      { 
+         "text":"Apple Melno Park",
+         "latitude":"37.334807",
+         "longitude":"-122.009076",
+         "altitude":"100"
+      },
+      { 
+         "text":"Hartron, Iamai, Nasscom",
+         "latitude":"28.5169032",
+         "longitude":"77.0781483",
+         "altitude":"210"
+      },
+      { 
+         "text":"IGI Airport",
+         "latitude":"28.5561624",
+         "longitude":"77.0977691",
+         "altitude":"236"
+      },
+      { 
+         "text":"Qutub Minar",
+         "latitude":"28.5622247",
+         "longitude":"77.1872945",
+         "altitude":"236"
+      }
+   ]
+}
